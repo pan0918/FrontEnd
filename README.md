@@ -7,3 +7,5 @@
 #学成网页STUDY：HTML + CSS
 
 #电商平台STUDY：HTML + CSS
+
+#轮播图：HTML + CSS +JS
