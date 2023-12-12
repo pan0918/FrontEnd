@@ -9,3 +9,5 @@
 #电商平台STUDY：HTML + CSS
 
 #轮播图：HTML + CSS +JS
+
+#学生信息表 & 信息表 ：HTML + CSS +JS
